@@ -179,4 +179,4 @@ async def ticket(interaction: discord.Interaction):
     embed = discord.Embed(title="Buy Service", description="Click the button below to create a ticket.", color=0x00ff00)
     await interaction.response.send_message(embed=embed, view=BuyServiceView())
 
-bot.run('MTI1MTIwMjE5NzM2NzE2NTA2MQ.GgeTZk.xQklaST0QRggQ4GpHZBb5J_TEZ5ESG9Le-0EVQ')
+bot.run('MTI1MTIwMjE5NzM2NzE2NTA2MQ.GBZLoB.tJs4f_vWc0ar3Qmo4HyT1iLNpWWoI_25jndnow')
